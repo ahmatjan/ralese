@@ -1,0 +1,21 @@
+//reload.idl
+
+struct songinfo
+{
+	uint32_t itemid;
+	int32_t weight;	
+};
+
+struct setcmd
+{
+	int32_t cmd;
+	songinfo iteminfo[] = optional();
+};
+
+struct reload_cmd
+{
+	int32_t rf;
+	string username;
+	uint32_t uid;
+	setcmd sc;
+};

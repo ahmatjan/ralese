@@ -1,0 +1,118 @@
+//rls2.idl
+struct action
+{
+  uint32_t itemid;
+  int32_t action_no;
+};
+
+struct playercmd
+{
+  int32_t needdata;
+  action titles[];
+};
+
+struct findcmd
+{
+  int32_t category;
+  string keyword;
+};
+
+struct mgrcmd
+{
+  int32_t action;
+  int32_t category;
+  uint32_t itemid;
+};
+
+struct cntcmd
+{
+  int32_t src;
+};
+
+struct listcmd
+{
+  int32_t type;
+  int32_t page_len;
+  int32_t page_no;
+  int32_t src;
+};
+
+struct ticketcmd 
+{
+  int32_t len;
+};
+
+struct piaocmd 
+{
+  uint32_t sub_cmd;
+  int32_t len = optional();
+  uint32_t artist_id = optional();
+
+  uint32_t top_len = optional();
+  uint32_t page_size = optional();
+  int32_t page_number = optional();
+};
+
+
+
+struct chlistcmd
+{
+  string cate_name;
+};
+
+struct playlistcmd
+{
+  string ch_name;
+};
+
+struct playactioncmd
+{
+  string ch_name;
+  uint64_t item_id;
+  string pack_item_ids;
+  int32_t  action_no;    
+};
+
+struct coldstartreqcmd
+{
+  string ch_name;
+  string lovesinger;
+};
+
+struct coldstartsingerlistcmd
+{
+  string ch_name;
+};
+
+struct newusercmd
+{
+  string ch_name;
+};
+
+struct usertagscmd
+{
+  uint32_t src;
+};
+
+struct cmd
+{
+  int32_t rf = default(-1);
+  string username = default("");
+  uint32_t uid = default(0);
+  string baiduid = default("");
+
+  playercmd pc = optional();
+  findcmd fc = optional();
+  mgrcmd mc = optional();
+  cntcmd cc = optional();
+  listcmd lc = optional();
+  chlistcmd chlc = optional();
+  playlistcmd plc = optional();
+  playactioncmd pac = optional();
+  coldstartreqcmd crc = optional();
+  coldstartsingerlistcmd cslc = optional();
+  newusercmd nuc = optional();
+  usertagscmd utag_cmd = optional();
+  ticketcmd tic = optional();
+  piaocmd piao = optional();
+};

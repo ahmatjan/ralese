@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/app/search/mp3/!svn/ver/30842/trunk/rls/code/rd/src/idl
+END
+rls2.idl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/30842/trunk/rls/code/rd/src/idl/rls2.idl.h
+END
+reload.idl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/mp3/!svn/ver/22214/trunk/rls/code/rd/src/idl/reload.idl.h
+END
+rls2.idl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/30347/trunk/rls/code/rd/src/idl/rls2.idl
+END
+rls2.idl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/mp3/!svn/ver/30842/trunk/rls/code/rd/src/idl/rls2.idl.cpp
+END
+reload.idl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/22214/trunk/rls/code/rd/src/idl/reload.idl
+END
+reload.idl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/mp3/!svn/ver/22214/trunk/rls/code/rd/src/idl/reload.idl.cpp
+END

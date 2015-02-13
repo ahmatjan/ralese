@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/mp3/!svn/ver/23434/trunk/rls/code/qa/local_build
+END
+COMAKE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/22651/trunk/rls/code/qa/local_build/COMAKE
+END
+local_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/app/search/mp3/!svn/ver/23434/trunk/rls/code/qa/local_build/local_build.sh
+END
+local_build.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/app/search/mp3/!svn/ver/22474/trunk/rls/code/qa/local_build/local_build.conf
+END

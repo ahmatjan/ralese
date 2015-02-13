@@ -1,0 +1,25 @@
+--- 
+runner_yml_version: 2.0.1
+configration_help: http://wiki.babel.baidu.com/twiki/bin/view/Com/Test/Supertest_ci_runner
+mail_subject: "rls hudson构建 测试报告 第 74 次构建"
+message_head: |
+  From: rls function test <zhouruili01@baidu.com>
+  To: Music-QA <zhouruili01@baidu.com>
+  MIME-Version: 1.0
+  Content-type: text/html
+  Subject: %s
+  
+  %s
+
+version_info: "Version : rls 64bit <p>"
+scripts_info: "URL: https://svn.baidu.com/app/search/mp3/trunk/rls/code/qa/testci"
+web_server_port: 8765
+smtp_server: hotswap-c.baidu.com
+module_path: /home/mp3/rls
+case_path: /home/mp3/ci/case/rls
+log_level: INFO
+log_stdout: false
+depart_error: true
+mailto_list: 
+- zhouruili01@baidu.com
+hudson: "Hudson 平台build地址： http://db-testing-mp327.db01.baidu.com:8235/hudson/job/mse_dailyrun/74/"

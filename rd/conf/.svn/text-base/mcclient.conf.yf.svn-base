@@ -1,0 +1,19 @@
+#客户端配置本地机房tag如：tc | jx | hz
+[ClientIdcMap]
+tag : jx
+#连接BNS超时时间单位(ms)
+[CamelConfig]
+ConnectTimeout : 10
+[.WebfootBase]
+#访问BNS失败重试次数
+WebfootRetry : 1 
+#重试时间间隔单位(ms)
+WebfootRetryInterval : 1500
+#后台拉取BNS信息间隔时间（单位：ms)
+WebfootUpdateInterval : 3000
+
+[.ServiceConfig]
+[..Webfoot]
+[...@Service]
+Name : group.memcache-music-fm.osp.cn
+Rename : Memcached_v2_music_fm

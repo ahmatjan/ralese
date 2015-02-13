@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/app/search/mp3/!svn/ver/31974/trunk/rls/code/rd/conf
+END
+mcclient.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/31446/trunk/rls/code/rd/conf/mcclient.conf
+END
+mcclient.conf.cq
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/31442/trunk/rls/code/rd/conf/mcclient.conf.cq
+END
+rls.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/mp3/!svn/ver/31974/trunk/rls/code/rd/conf/rls.conf
+END
+redis.conf.bj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/32286/trunk/rls/code/rd/conf/redis.conf.bj
+END
+rls.conf.cq
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/32286/trunk/rls/code/rd/conf/rls.conf.cq
+END
+mcclient.conf.nj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/31106/trunk/rls/code/rd/conf/mcclient.conf.nj
+END
+ub_client.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/app/search/mp3/!svn/ver/22221/trunk/rls/code/rd/conf/ub_client.conf
+END
+cs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/mp3/!svn/ver/25775/trunk/rls/code/rd/conf/cs.conf
+END
+rls.conf.tc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/32286/trunk/rls/code/rd/conf/rls.conf.tc
+END
+redis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/mp3/!svn/ver/31519/trunk/rls/code/rd/conf/redis.conf
+END
+rls.conf.nj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/32286/trunk/rls/code/rd/conf/rls.conf.nj
+END
+mcclient.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/app/search/mp3/!svn/ver/24554/trunk/rls/code/rd/conf/mcclient.conf.template
+END
+rls.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/mp3/!svn/ver/30051/trunk/rls/code/rd/conf/rls.conf.template
+END
+mcclient.conf.yf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/31442/trunk/rls/code/rd/conf/mcclient.conf.yf
+END
+mcclient.conf.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/app/search/mp3/!svn/ver/31106/trunk/rls/code/rd/conf/mcclient.conf.test
+END
+redis.conf.nj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/32286/trunk/rls/code/rd/conf/redis.conf.nj
+END
+rls.conf.yf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/32286/trunk/rls/code/rd/conf/rls.conf.yf
+END
+ub_client.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/app/search/mp3/!svn/ver/22334/trunk/rls/code/rd/conf/ub_client.conf.template
+END
+control.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/mp3/!svn/ver/22221/trunk/rls/code/rd/conf/control.conf
+END
+comlog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/29755/trunk/rls/code/rd/conf/comlog.conf
+END
+mcclient.conf.online
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/app/search/mp3/!svn/ver/24434/trunk/rls/code/rd/conf/mcclient.conf.online
+END
+db.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/mp3/!svn/ver/27016/trunk/rls/code/rd/conf/db.conf
+END
+naming_back.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/29227/trunk/rls/code/rd/conf/naming_back.conf
+END

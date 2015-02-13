@@ -1,0 +1,80 @@
+[UbClientConfig]
+#配置类型
+ConfType  :  1
+
+#目前Type不需要用户配置
+[.Reactor]
+ThreadNum : 4
+CheckTime : 50
+#本地配置，仅要求使用资源定位时可不用添加
+[.UbClient]
+#请求的服务信息，若不为空，则Name不可缺少
+[..@Service]
+Name  :  tagservice
+#默认端口，Service的DefaultPort和Server的Port必须存在一个，否则启动失败 
+DefaultPort : 26880
+DefaultConnectTimeOut  : 100  
+DefaultReadTimeOut  :  300
+DefaultWriteTimeOut  : 300
+DefaultMaxConnect  :  50
+DefaultRetry  : 3
+#获取连接的最大等大时间，ms
+DefaultFetchConnMaxTime : 1
+#LONG / SHORT  其余设置默认使用短连接
+DefaultConnectType  :  SHORT
+#0：不设置; 其余 : 设置linger
+DefaultLinger  : 0
+#0 : 不连接；其余 ：启动时建立所有连接 
+ConnectAll  : 0
+#异步通信时内部等待队列长度
+DefaultAsyncWaitingNum  : 0
+
+#采用自定义的策略，可见myubclient_strategy.cpp
+[...CurrStrategy]
+ClassName  : MyUbClientStrategy
+
+#建库检查策略，使用默认的策略
+[...CurrHealthy]
+ClassName  : UbClientHealthyChecker
+ 
+#当前机房的服务配置 Master置为1
+[...@Server]
+IP   :  10.207.18.50
+Master : 1
+
+[...@Server]
+IP   :  10.207.19.18
+Master : 1
+
+[...@Server]
+IP   :  10.207.20.18
+Master : 
+
+[...@Server]
+IP   :  10.207.21.18
+Master : 1
+
+[...@Server]
+IP   :  10.207.22.48
+Master : 1
+
+[...@Server]
+IP   :  10.207.23.48
+Master : 1
+
+#备用机房的服务配置 Master置为0
+[...@Server]
+IP   :  10.36.49.37
+Master : 0
+
+[...@Server]
+IP   :  10.36.49.57
+Master : 0
+
+[...@Server]
+IP   :  10.36.50.17
+Master : 0
+
+[...@Server]
+IP   :  10.36.50.37
+Master : 0

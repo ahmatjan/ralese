@@ -1,0 +1,8 @@
+#端口配置
+#重载端口
+reload_port : 9979
+#监听端口
+listenport : 9878
+#flow标志, 0为正常线上情况，其它为ab test测试标识，一般为1
+flow_mark : 0
+

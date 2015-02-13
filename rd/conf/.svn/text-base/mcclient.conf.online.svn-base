@@ -1,0 +1,38 @@
+[McClientConfig]
+[.Galileo]
+    host                        : 10.23.253.43:8181,10.23.247.141:8181,10.65.27.21:8181,10.81.7.200:8181,10.65.39.219:8181 
+    path                        : /baidu/ns/ksarch/cache
+    log_file                    : ./log/galileo.log
+    #galileo节点信息本地备份目录
+    cache_dir                   : ./data/zk_cache_dir
+    #资源定位配置本地的备份文件,放到cache_dir目录下
+    ubclient_galileo_file       : galileo_backup.conf
+    #内部工作线程，建议与cpu 核数相当 
+    ubclient_reactor_thread_num : 24
+    #UbClientConfig中epool wait的timeout时间(ms)，过大会导致网络IO响应延迟
+    ubclient_reactor_check_time : 100
+
+[.Product]
+[..music_fm]
+    #连接memcached超时时间,单位ms
+    ctimeout   : 10
+    #memcached的写超时时间,单位ms
+    rtimeout   : 50
+    #memcached的读超时时间,单位ms
+    wtimeout   : 20
+    #memcached poll超时时间,单位ms
+    ptimeout   : 20
+    #是否立即删除 0:不立即删除 1:立即删除
+    delete_directly : 1
+    #是否延迟删除 0:不延迟删除 1:延迟删除
+    delete_delay    : 0
+    #set命令是否调用延迟删除 0:不调用延迟删除 1:调用延迟删除
+    set_call_delete_delay : 0
+    #当前所在机房
+    curr_idc : tc
+    #默认为0,目前只提供0这种策略
+    span_idc_strategy_index : 0
+    #最大同时并发连接数
+    max_connection  : 60
+    retry_timeout   : 1
+    server_fail_limit : 10

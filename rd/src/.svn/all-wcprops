@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/app/search/mp3/!svn/ver/32260/trunk/rls/code/rd/src
+END
+rls_instant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/app/search/mp3/!svn/ver/24941/trunk/rls/code/rd/src/rls_instant.cpp
+END
+rls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/mp3/!svn/ver/32246/trunk/rls/code/rd/src/rls.cpp
+END
+shuffle.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/shuffle.h
+END
+rls_y_playerhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/app/search/mp3/!svn/ver/29230/trunk/rls/code/rd/src/rls_y_playerhandler.cpp
+END
+dao.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/mp3/!svn/ver/30124/trunk/rls/code/rd/src/dao.cpp
+END
+rls_ral.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/mp3/!svn/ver/30849/trunk/rls/code/rd/src/rls_ral.h
+END
+rls_uscchecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/rls_uscchecker.h
+END
+reload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/app/search/mp3/!svn/ver/24434/trunk/rls/code/rd/src/reload.cpp
+END
+macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/mp3/!svn/ver/30842/trunk/rls/code/rd/src/macro.h
+END
+redis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/mp3/!svn/ver/32260/trunk/rls/code/rd/src/redis.cpp
+END
+rls_piaohandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/app/search/mp3/!svn/ver/30348/trunk/rls/code/rd/src/rls_piaohandler.cpp
+END
+rls_dictseeker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/mp3/!svn/ver/30349/trunk/rls/code/rd/src/rls_dictseeker.h
+END
+userworker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/mp3/!svn/ver/30348/trunk/rls/code/rd/src/userworker.cpp
+END
+rls_rstrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/app/search/mp3/!svn/ver/29229/trunk/rls/code/rd/src/rls_rstrategy.h
+END
+rls_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/30002/trunk/rls/code/rd/src/rls_struct.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/mp3/!svn/ver/31971/trunk/rls/code/rd/src/config.h
+END
+rls_playerhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/app/search/mp3/!svn/ver/32231/trunk/rls/code/rd/src/rls_playerhandler.cpp
+END
+rls_rgen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/31978/trunk/rls/code/rd/src/rls_rgen.cpp
+END
+rls_control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/rls_control
+END
+mystring.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/mystring.h
+END
+mcCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/mp3/!svn/ver/32260/trunk/rls/code/rd/src/mcCache.cpp
+END
+topn.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/app/search/mp3/!svn/ver/22346/trunk/rls/code/rd/src/topn.h
+END
+networker.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/networker.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/app/search/mp3/!svn/ver/22205/trunk/rls/code/rd/src/common.cpp
+END
+rls_queryhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/mp3/!svn/ver/31295/trunk/rls/code/rd/src/rls_queryhandler.h
+END
+rls_uscgetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/app/search/mp3/!svn/ver/32042/trunk/rls/code/rd/src/rls_uscgetter.h
+END
+shuffle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/shuffle.cpp
+END
+rls_ral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/mp3/!svn/ver/30849/trunk/rls/code/rd/src/rls_ral.cpp
+END
+rls_uscchecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/mp3/!svn/ver/32231/trunk/rls/code/rd/src/rls_uscchecker.cpp
+END
+rls_dictseeker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/mp3/!svn/ver/32246/trunk/rls/code/rd/src/rls_dictseeker.cpp
+END
+myubclient_strategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/myubclient_strategy.h
+END
+rls_rstrategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/30009/trunk/rls/code/rd/src/rls_rstrategy.cpp
+END
+rls_instant.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/mp3/!svn/ver/24941/trunk/rls/code/rd/src/rls_instant.h
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/app/search/mp3/!svn/ver/31971/trunk/rls/code/rd/src/config.cpp
+END
+rls.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/app/search/mp3/!svn/ver/32246/trunk/rls/code/rd/src/rls.h
+END
+rls_y_playerhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/app/search/mp3/!svn/ver/29230/trunk/rls/code/rd/src/rls_y_playerhandler.h
+END
+dao.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/app/search/mp3/!svn/ver/30912/trunk/rls/code/rd/src/dao.h
+END
+reload.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/reload.h
+END
+redis.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/mp3/!svn/ver/32246/trunk/rls/code/rd/src/redis.h
+END
+rls_piaohandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/30348/trunk/rls/code/rd/src/rls_piaohandler.h
+END
+mystring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/mystring.cpp
+END
+userworker.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/userworker.h
+END
+rls_playerhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/app/search/mp3/!svn/ver/29755/trunk/rls/code/rd/src/rls_playerhandler.h
+END
+networker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/networker.cpp
+END
+rls_rgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/app/search/mp3/!svn/ver/31971/trunk/rls/code/rd/src/rls_rgen.h
+END
+rls_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/mp3/!svn/ver/32246/trunk/rls/code/rd/src/rls_def.h
+END
+rls_queryhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/app/search/mp3/!svn/ver/31295/trunk/rls/code/rd/src/rls_queryhandler.cpp
+END
+rls_uscgetter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/mp3/!svn/ver/32045/trunk/rls/code/rd/src/rls_uscgetter.cpp
+END
+mcCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/mp3/!svn/ver/30964/trunk/rls/code/rd/src/mcCache.h
+END
+myubclient_strategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/app/search/mp3/!svn/ver/22209/trunk/rls/code/rd/src/myubclient_strategy.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/mp3/!svn/ver/29755/trunk/rls/code/rd/src/common.h
+END
